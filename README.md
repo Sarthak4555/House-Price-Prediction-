@@ -28,24 +28,6 @@ Scikit-Learn
 Jupyter Notebook
 
 
-#Installation
-
-1. Clone the repository:
-
-git clone https://github.com/Sartha4555/house-price-prediction.git
-
-
-2. Navigate to the project directory:
-
-cd house-price-prediction
-
-
-3. Install dependencies:
-
-pip install -r requirements.txt
-
-
-
 #Usage
 
 1. Prepare the dataset and place it in the data/ folder.
